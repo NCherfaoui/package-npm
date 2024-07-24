@@ -20,5 +20,8 @@
     "url": "https://github.com/NCherfaoui/package-npm/issues"
   },
   "homepage": "https://github.com/NCherfaoui/package-npm#readme",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+    "@ncherfaoui:registry": "https://npm.pkg.github.com"
+  }
 }
