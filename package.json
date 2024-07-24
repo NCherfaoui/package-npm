@@ -1,0 +1,24 @@
+{
+  "name": "@ncherfaoui/nassim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NCherfaoui/package-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "js",
+    "package"
+  ],
+  "author": "NCherfaoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NCherfaoui/package-npm/issues"
+  },
+  "homepage": "https://github.com/NCherfaoui/package-npm#readme",
+  "description": ""
+}
